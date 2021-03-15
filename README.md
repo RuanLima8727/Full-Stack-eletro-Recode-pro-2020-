@@ -1,3 +1,5 @@
-# Full-Stack-eletro-Recode-pro-2020-html-css-js
 
-<h2>Esse é o meu primeiro exercício em html, um rascunho do site Full Stack Eletro</h2>
+
+  <h2>Exercício Full Stack Eletro</h2>
+<p><b>Esse é o meu primeiro exercício em html,css e JavaScript.Um rascunho do site Full Stack Eletro</b></p>
+
